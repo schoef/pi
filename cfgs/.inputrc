@@ -1,0 +1,6 @@
+"\e[B": history-search-forward
+"\e[A": history-search-backward
+"\eb": beginning-of-line
+"\ef": end-of-line
+"\eOH": beginning-of-line
+"\eOF": end-of-line
